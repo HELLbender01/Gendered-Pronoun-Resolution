@@ -2,6 +2,8 @@
 
 This is the submission file for the hackathon Gendered Pronoun Resolution.
 
+solution write-up is at: [A Simple Bert Model](https://www.kaggle.com/ayushkumar0801/a-simple-bert-model)
+
 Pronoun resolution is part of coreference resolution, the task of pairing an expression to its referring entity. This is an important task for natural language understanding, and the resolution of ambiguous pronouns is a longstanding challenge.
 
 - This file takes the following inputs - 
