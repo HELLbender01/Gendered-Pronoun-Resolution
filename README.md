@@ -9,4 +9,4 @@ This file takes the following inputs -
     [bert base uncased](https://www.kaggle.com/abhishek/bert-base-uncased)
     [GAP + Dataloaders](https://www.kaggle.com/ayushkumar0801/gap-dataloaders)
     [gap-validation](https://www.kaggle.com/daladiersampaio/gapvalidation)
-    [gendered model](https://www.kaggle.com/ayushkumar0801/gendered-model)
+    [gendered model](https://www.kaggle.com/ayushkumar0801/gendered-model) 
